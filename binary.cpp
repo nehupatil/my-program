@@ -8,6 +8,7 @@ int main()
   cin>>n;
   
   int arr[n];
+  int i;
   cout<<"Enter"<<n<<"Integers in ascending order=>";
   for(i=0;i<n;i++)
   cin>>arr[i];
